@@ -1,0 +1,20 @@
+User:
+  test_user_001:
+    name: ""
+    tel : ""
+    except: ""
+
+  test_user_002:
+    name: "小红"
+    tel : ""
+    except: "小红"
+
+  test_user_003:
+    name: ""
+    tel : "13344556677"
+    except: "13344556677"
+
+  test_user_004:
+    name: "小明"
+    tel : "15810901188"
+    except: "小明"
